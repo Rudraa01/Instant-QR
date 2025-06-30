@@ -3,7 +3,7 @@ import QRCode from 'react-qr-code';
 import html2canvas from 'html2canvas';
 
 const QRGenerator = () => {
-  const [text, setText] = useState('https://instant-qr.vercel.app');
+  const [text, setText] = useState('https://instantqrme.vercel.app');
   const [logoFile, setLogoFile] = useState(null);
   const [logoUrl, setLogoUrl] = useState(null);
   const [qrSize, setQrSize] = useState(256);
@@ -86,7 +86,7 @@ const QRGenerator = () => {
               {/* Social Media Links */}
               <div className="flex justify-center lg:justify-start space-x-3 mb-3 md:mb-4">
                 <a
-                  href="https://instagram.com/your_username"
+                  href="https://instagram.com/_rudra.aaaaa"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 bg-white text-gray-800 border border-gray-300 rounded-lg hover:bg-gray-100 hover:scale-105 transition-all duration-300 shadow-md hover:shadow-lg"
@@ -97,7 +97,7 @@ const QRGenerator = () => {
                   </svg>
                 </a>
                 <a
-                  href="https://github.com/your_username"
+                  href="https://github.com/rudraa01"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 bg-white text-gray-800 border border-gray-300 rounded-lg hover:bg-gray-100 hover:scale-105 transition-all duration-300 shadow-md hover:shadow-lg"
