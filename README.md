@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![Instant QR Logo](https://instant-qr.vercel.app/logo.jpeg)
+![Instant QR Logo](https://instantqrme.vercel.app/logo.jpeg)
 
 **A modern, elegant QR code generator built with Next.js and Tailwind CSS**
 
 Generate high-quality QR codes instantly with custom logos, perfect for businesses, events, and personal use.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/instant-qr)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Rudraa01/instant-qr)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-blue)](https://tailwindcss.com/)
@@ -123,7 +123,7 @@ npm run lint
 
 ### 🌐 One-Click Deployment
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/instant-qr)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Rudraa01/instant-qr)
 
 **Or follow these steps:**
 
@@ -152,7 +152,7 @@ npm run lint
 
 ### 🌟 Live Demo
 
-**[Visit Live Demo →](https://instant-qr.vercel.app)**
+**[Visit Live Demo →](https://instantqrme.vercel.app)**
 
 </div>
 
@@ -197,10 +197,10 @@ colors: {
 **Update in `components/QRGenerator.js`:**
 ```javascript
 // Instagram
-href="https://instagram.com/your_username"
+href="https://instagram.com/_rudra.aaaaa"
 
 // GitHub  
-href="https://github.com/your_username"
+href="https://github.com/Rudraa01"
 ```
 
 ## 📱 Features in Detail
